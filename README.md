@@ -1,31 +1,47 @@
 # 🎬 Movie Explorer (React)
 
-A modern React application that allows users to search and explore movies using the OMDb API.  
-The app includes dynamic routing, favorites system, loading states, and a clean UI.
+A React application that allows users to search and explore movies using the OMDb API.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 Search movies using API
-- 🎥 View detailed movie information
-- ❤️ Add/Remove favorites
-- ⚡ Loading spinner for better UX
-- ❌ Error handling for invalid searches
-- 🔄 Dynamic routing with React Router
-- 🎨 Modern UI with animations and styling
+- Search movies using API
+- View movie details
+- Add/remove favorites
+- Loading spinner
+- Error handling
+- Clean and responsive UI
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - React.js
-- JavaScript (ES6)
-- CSS3
+- JavaScript
+- CSS
 - Axios
-- React Router DOM
-- OMDb API
+- React Router
 
 ---
 
-## 📂 Project Structure
+## ▶️ How to Run
+
+1. Download or clone the project
+2. Install dependencies:
+
+   npm install
+
+3. Add your OMDb API key in the code:
+
+   apikey=YOUR_API_KEY
+
+4. Start the app:
+
+   npm start
+
+---
+
+## 👨‍💻 Author
+
+Nimish Bali
